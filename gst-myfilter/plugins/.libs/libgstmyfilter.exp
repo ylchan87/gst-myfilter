@@ -1,0 +1,3 @@
+gst_myfilter_get_type
+gst_plugin_myfilter_get_desc
+gst_plugin_myfilter_register
